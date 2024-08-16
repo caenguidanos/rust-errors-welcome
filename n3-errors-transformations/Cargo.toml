@@ -1,0 +1,6 @@
+[package]
+name = "n3-errors-transformations"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

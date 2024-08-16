@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "n1-errors-as-scalars",
+    "n2-errors-as-types",
+    "n3-errors-transformations",
+    "n4-errors-propagation", "n5-errors-replacement",
+]
